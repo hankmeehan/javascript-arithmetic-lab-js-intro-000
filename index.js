@@ -1,18 +1,17 @@
- var a = 10; var b = 2
-
-
-function add(a, b) {
-
-}
-
-function subtract(a, b) {
+var a = 'a';
+var b = 'b'
+function add('a', 'b') {
 
 }
 
-function multiply(a, b) {
+function subtract('a', 'b') {
 
 }
 
-function divide(a, b){
+function multiply('a', 'b') {
+
+}
+
+function divide('a', 'b'){
 
 }
