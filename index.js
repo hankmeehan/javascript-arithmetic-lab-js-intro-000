@@ -1,17 +1,17 @@
  var b = 10; var a =50
 
-function add() {
- add(a, b)
+function add(a, b) {
+ add()
 }
 
-function subtract() {
- subtract (a, b)
+function subtract(a, b) {
+ subtract ()
 }
 
-function multiply() {
- multiply (a, b)
+function multiply(a, b) {
+ multiply ()
 }
 
-function divide(){
-divide(a, b)
+function divide(a, b){
+divide()
 }
