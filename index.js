@@ -1,18 +1,18 @@
 var a = 5
 var b = 2
 
-function add(a, b) {
-add()
+function add() {
+add(a + b)
 }
 
 function subtract(a, b) {
- subtract()
+ subtract(a - b)
 }
 
 function multiply(a, b) {
-multiply()
+multiply(a * b)
 }
 
 function divide(a, b){
-divide ()
+divide (a / b)
 }
