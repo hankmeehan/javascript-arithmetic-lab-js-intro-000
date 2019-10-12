@@ -17,15 +17,12 @@ function divide(a, b) {
 return a / b
 }
 
-var number = 12
+var n = 12
 
 function inc(n) {
-  number += 4
+return n += 4
 }
- inc(n)
-
- console.log (number)
 
 function dec(n) {
-  number -= 2
+  return n -= 2
 }
