@@ -5,14 +5,14 @@ function add() {
 add(a + b)
 }
 
-function subtract(a, b) {
+function subtract() {
  subtract(a - b)
 }
 
-function multiply(a, b) {
+function multiply() {
 multiply(a * b)
 }
 
-function divide(a, b){
+function divide(){
 divide (a / b)
 }
