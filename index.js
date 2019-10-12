@@ -5,7 +5,7 @@ function add(a ++ b) {
 add()
 }
 
-function subtract(a - b) {
+function subtract(a -- b) {
  subtract()
 }
 
