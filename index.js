@@ -1,14 +1,18 @@
+ var b = 10; var a =50 
+
+
 function add() {
-     200 + 37
+  add(a, b)
 }
 
-function subtract(a, b) {
+function subtract() {
+  subtract(a, b)
 }
 
 function multiply() {
-  2 * 3.4
+  multiply(a, b)
 }
 
-function divide() {
-  5.0 / 2.5
+function divide(){
+  divide(a , b)
 }
