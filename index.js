@@ -1,4 +1,5 @@
- var b = 10; var a =50
+ var b = 10;
+ var a = 5
 
 function add(a, b) {
 
