@@ -16,3 +16,13 @@ return a * b
 function divide(a, b) {
 return a / b
 }
+
+var number = 12
+
+function inc(n) {
+  number += 4
+}
+
+function dec(n) {
+  number -= 2
+}
