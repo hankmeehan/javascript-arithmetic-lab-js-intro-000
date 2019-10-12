@@ -22,6 +22,9 @@ var number = 12
 function inc(n) {
   number += 4
 }
+ inc(n)
+
+ console.log (number)
 
 function dec(n) {
   number -= 2
