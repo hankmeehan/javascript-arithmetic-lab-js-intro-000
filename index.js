@@ -1,5 +1,5 @@
-var a = '5';
-var b = '8'
+var a = 50;
+var b = 8
 function add(a, b) {
 
 }
